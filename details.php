@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Ambilamp</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/details.css">
+	<link rel="stylesheet" type="text/css" href="details.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.min.js"></script>
 </head>
 <body>
@@ -69,6 +69,6 @@
 
  	</div>
  </div>
-<script type="text/javascript" src="assets/js/details.js"></script>
+<script type="text/javascript" src="details.js"></script>
 </body>
 </html>
